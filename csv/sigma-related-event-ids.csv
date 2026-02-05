@@ -14,7 +14,6 @@ Event ID;Description
 15;A **create stream hash** Sigma rule matched.
 17;A **pipe event** Sigma rule matched.
 19;A **WMI event** Sigma rule matched.
-12;A **registry event** Sigma rule matched.
 22;A **DNS query** Sigma rule matched.
 23;A **file deletion** Sigma rule matched.
 95;An error occurred while loading the Sigma rules.
