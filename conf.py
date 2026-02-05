@@ -34,3 +34,6 @@ smartquotes = False
 autosectionlabel_prefix_document = True
 autosectionlabel_maxdepth = 4
 suppress_warnings = ["epub.unknown_project_files"]
+linkcheck_ignore = [
+    r"^https://medium\.com/safetycultureengineering/an-overview-of-memory-management-in-go-9a72ec7c76a8$",
+]
